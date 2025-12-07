@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+output.txt
+train_simple.py
+train_model.py
+train_model_fixed.py
+Ensemble model.py
